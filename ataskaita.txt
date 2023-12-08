@@ -1,0 +1,11 @@
+Id: 0 | Vardas: pauLiuS | Slaptazodis: mama | Email: paulius@gmail.com | Lytis: VYRAS | Gimimo data: 1988-04-20 | Registracijos data: 2023-12-08 08:58:09
+Id: 1 | Vardas: Ilona | Slaptazodis: meme | Email: ilona@gmail.com | Lytis: MOTERIS | Gimimo data: 1982-12-14 | Registracijos data: 2023-12-08 08:58:09
+Id: 2 | Vardas: Kazys | Slaptazodis: ka | Email: kazys@gmail.com | Lytis: VYRAS | Gimimo data: 1986-10-04 | Registracijos data: 2023-12-08 08:58:09
+Id: 3 | Vardas: juozukas | Slaptazodis: kur | Email: juozs@gmail.com | Lytis: VYRAS | Gimimo data: 1966-11-13 | Registracijos data: 2023-12-08 08:58:09
+Id: 4 | Vardas: Martynas | Slaptazodis: k | Email: gfshj@. | Lytis: vyras | Gimimo data: 1895-09-08 | Registracijos data: 2023-12-08 09:04:22
+╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╮
+| Duomenu bazes ataskaita |
+| Viso rasta irasu:     5 |
+| Aktyvus irasai:       4 |
+| Deaktyvuoti irasai:   1 |
+╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╯
