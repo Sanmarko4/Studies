@@ -1,1 +1,1 @@
-Mokymosi tikslais kurtas projektelis
+Small studies project
