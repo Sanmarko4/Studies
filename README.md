@@ -1,0 +1,1 @@
+Mokymosi tikslais kurtas projektelis
